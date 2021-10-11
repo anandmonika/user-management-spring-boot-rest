@@ -1,4 +1,5 @@
-# User Management Application REST API (Spring Boot + Hibernate + MySQL)
+# User Management Application REST API 
+### Spring Boot + Hibernate + MySQL
 
 ## Description
 This Project shows the list of Users which are stored in the MySQL Database. Using the following endpoints, different operations can be achieved
